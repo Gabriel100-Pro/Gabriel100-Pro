@@ -32,4 +32,4 @@ Aqui é onde passo a maior parte do meu tempo, transformando imaginação e cria
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel100-Pro&theme=tokyonight" />
+
