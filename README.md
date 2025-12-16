@@ -3,7 +3,6 @@
 Sou Gabriel Carlos, um programador Front End apaixonado por tecnologia!  
 Aqui é onde passo a maior parte do meu tempo, transformando imaginação e criatividade em código.
 
-- 💬 Pergunte-me sobre qualquer coisa!
 - 📫 Como falar comigo: em breve adicionarei redes sociais.
 
 ---
