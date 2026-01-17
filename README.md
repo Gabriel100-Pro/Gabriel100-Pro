@@ -10,9 +10,16 @@ Aqui é onde passo a maior parte do meu tempo, transformando imaginação e cria
 ## 🚀 Tecnologias e Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Davilson-Javascript" height="35px"/>
+&nbsp;  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Davilson-Typescript" height="35px"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Davilson-HTML" height="35px">
+&nbsp;  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Davilson-CSS" height="35px">
+&nbsp;  
+<img src="https://user-images.githubusercontent.com/35976070/155427905-da6dc1ae-1ab6-4e1b-90ba-2e615347b433.png" height="40px"/>    
+&nbsp;
 </p>
 
 ---
